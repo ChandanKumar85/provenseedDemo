@@ -1,0 +1,10 @@
+<svg id="youtube-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.417" height="23.392" viewBox="0 0 33.417 23.392">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_579" data-name="Rectangle 579" width="33.417" height="23.392" fill="#465f70"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3323" data-name="Group 3323" clip-path="url(#clip-path)">
+    <path id="Path_5481" data-name="Path 5481" d="M32.719,3.653A4.185,4.185,0,0,0,29.765.7C27.159,0,16.708,0,16.708,0S6.259,0,3.653.7A4.185,4.185,0,0,0,.7,3.653,43.478,43.478,0,0,0,0,11.7a43.481,43.481,0,0,0,.7,8.043,4.185,4.185,0,0,0,2.954,2.954c2.606.7,13.056.7,13.056.7s10.45,0,13.056-.7a4.185,4.185,0,0,0,2.954-2.954,43.481,43.481,0,0,0,.7-8.043,43.478,43.478,0,0,0-.7-8.043M13.367,16.708V6.683L22.048,11.7Z" transform="translate(0 0)" fill="#465f70"/>
+  </g>
+</svg>
