@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default function Authentication() {
-    const END_POINT_URL = 'https://dev.provenseed.ca'
+    const END_POINT_URL = 'http://localhost:3200'
 
 
     // Get URL
